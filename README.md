@@ -2,7 +2,7 @@
 
  - Example that show how to explore the monitoring and ranging of Estimote Beacons.
 	- Send notification when enter and leave a region.
-	-Calculate the distance and the proximity of the beacons.
+	- Calculate the distance and the proximity of the beacons.
 
 #TODO
 
